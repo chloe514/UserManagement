@@ -16,18 +16,15 @@ How to Set Up and Run
 Clone the Project: First, get the project on your computer:
 
 bash
-Copy code
-git clone https://github.com/yourusername/usermanagement.git
+git clone https://github.com/chloe514/usermanagement.git
 cd usermanagement
 Build the Project: Use Maven to build the app. In the project folder, run:
 
 bash
-Copy code
 mvn clean install
 Run the Application: You can run the app using IntelliJ or through the command line:
 
 bash
-Copy code
 mvn spring-boot:run
 Test the Endpoints: Open your browser or Postman and try out these endpoints:
 
