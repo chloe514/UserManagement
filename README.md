@@ -5,7 +5,7 @@ Features
 Login with ADMIN and USER roles.
 Secure password storage using BCrypt encryption.
 Role-based access control—some endpoints are public, while others need you to log in.
-What You Need
+What You Need:
 Make sure you have these installed:
 
 Java 17 or higher
